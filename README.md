@@ -1,9 +1,9 @@
-# chat-app
+# chat_app
 
 <p align="left">
    <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge"/> 
    <!--    <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/> -->
-   <img src="https://img.shields.io/github/license/GabrielSchiavo/chat-app?color=blue&style=for-the-badge"/>
+   <img src="https://img.shields.io/github/license/GabrielSchiavo/chat_app?color=blue&style=for-the-badge"/>
 </p>
 
 App de chat integrado com Firebase e Firestore para armazenamento dos dados de usuários e do aplicativo. App desenvolvido com a linguagem Dart e framework Flutter.
